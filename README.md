@@ -1,0 +1,2 @@
+# NewIsingModel
+NewIsing Model 
